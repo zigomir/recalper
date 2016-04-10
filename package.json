@@ -1,0 +1,27 @@
+{
+  "name": "recalper",
+  "version": "0.1.0",
+  "description": "(file, jsonFile) => file",
+  "main": "hash-replacer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigomir/recalper.git"
+  },
+  "keywords": [
+    "file",
+    "replace",
+    "json"
+  ],
+  "author": "zigomir@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zigomir/recalper/issues"
+  },
+  "homepage": "https://github.com/zigomir/recalper#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}

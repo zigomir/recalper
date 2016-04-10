@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/app.js",
+        "hashedPath": "/app-hce5e4ce87eb9281c9f1c18ad81d40d1f9.js"
+    },
+    {
+        "path": "/build.css",
+        "hashedPath": "/build-hc7411b9041dad72eeed20b4bced355941.css"
+    },
+    {
+        "path": "/vendor.js",
+        "hashedPath": "/vendor-hc7cb5efd12b1820f4bec90ff6a4299caf.js"
+    }
+]
