@@ -2,6 +2,14 @@
 
 > npm install recalper
 
+## Usage
+
 ```sh
-recalper index.html manifest.json dist/index.html path hashedPath dist
+recalper <input> <json> <output> <keyToFind> <keyToReplace> <additionalStrToReplace>
+```
+
+## Development and testing
+
+```sh
+bin/recalper test/index.html test/manifest.json dist/index.html path hashedPath dist
 ```
